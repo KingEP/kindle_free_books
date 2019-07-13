@@ -1,5 +1,9 @@
-# 免费的Kindle电子书资源
+# 免费的Kindle电子书资源,不定期更新。
         
+## 申明
+近期有人反应，我上传的电子书侵犯了出版社以及作者的权益，在此申明，如果有相关的作者请及时联系本人，本人会第一时间删除侵权的电子书。本人联系QQ：275137657
+
+------------------------------------
 
 ![](https://img-blog.csdnimg.cn/20181129144144537.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xqMTg4MjY2,size_16,color_FFFFFF,t_70)
 
